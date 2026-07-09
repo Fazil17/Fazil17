@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fazilsandh)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fazilsanjari27@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white](https://fazil-portfolio-vert.vercel.app/))](#)
 
 </div>
 
